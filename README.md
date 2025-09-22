@@ -56,7 +56,6 @@ python bot.py
 Open the Telegram app on your PC or mobile device. Search for your bot and send the `/start` command to interact with it.
 
 ## Additional Resources
-- Loom video walkthrough: https://www.loom.com/share/0520a9ff16564adbaf00b5e24b6fc321
 - Binance API Documentation: https://binance-docs.github.io/apidocs/
 - aiogram Documentation: https://docs.aiogram.dev/en/latest/
 
